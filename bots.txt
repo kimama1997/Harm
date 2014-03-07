@@ -29,6 +29,7 @@
 3000retweet
 40409990warawar
 4koma_
+4koma_bot_
 5000RT
 5000favo
 500fav
@@ -167,6 +168,7 @@ cutey_animals
 daigaku_aruaru
 daihukumonchu
 de_detaawwwww
+debu_saikou
 deformed48
 derasuke_bot
 dnlt_train
@@ -223,6 +225,7 @@ hanyu_yudu
 hanyugazou
 hanyuyuzuru_
 hanzaisya_bot
+happy_botom
 heartwash_story
 heiseibot
 hi_riaju_
@@ -230,6 +233,7 @@ himaTwbot
 himatsubishi
 himatubushijp
 himawarigumi_
+hmon_tw
 hon_mame
 honm_z
 hothorse5
@@ -266,6 +270,7 @@ kaaaaaaa_chan
 kagi_bot
 kami_sokuhou
 kangaebot
+kankorefanz
 kaorin704
 kaos_manga
 kasegnai
@@ -487,6 +492,7 @@ trendmastar
 trivia_bot_
 trivia_known
 trophyTweets
+tsukareteru_bot
 tsukkomimanga
 tt7cm78u
 twee_buzz
@@ -522,6 +528,7 @@ wahaha_bot
 wara_RT
 wara_wara1
 waraemasuka12
+warai_kami
 waraigazou
 waraitime_bot20
 waranet48
@@ -539,6 +546,7 @@ warautanpopo
 warawaraRT
 warawara_warosu
 warawase_bot7
+warawazaruenbot
 warosoku_net
 warosu_school
 warosukyuukyoku
@@ -575,15 +583,19 @@ wwwyankii
 yagamix55
 yakudachi_rt
 yamitrend1
+yarakashi_gazou
 yoisno
 yokotaxte
 yorondone
 yoshihironyanko
 yuru_boke
+yutaka_sugiru
 yutoribot_
+yutori_siranai
 yuueki_cho
 yuuekibot
 yuuekitwi
 yuuekitwit_bot
 yuzuru_gazou
 zakzak_present
+zatsugaku001
