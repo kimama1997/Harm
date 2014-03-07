@@ -2,6 +2,7 @@ Harm
 ===
 察して. 
   
-Warn.  
+Harm.  
 |-Bot.txt ......無断転載Botのリスト.  
 |-Report.txt ...パクリツイッタラーのリスト.  
+|-Bomb.txt......爆撃垢のリスト
