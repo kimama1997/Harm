@@ -109,6 +109,7 @@ WorldRecords_1
 Xmas_2013_12_25
 Yakudachi_BOT
 Yo_Ha_09
+yuruijoshi
 Yuruyuru_news
 _AppiPhone
 _Contactbot
@@ -738,3 +739,19 @@ yuzi07090710
 yuzuru_gazou
 zakzak_present
 zatsugaku001
+HimaYomu
+zatsunachie
+wadai_sentan
+mind_wealth
+SugoLoveHo
+SEXaru_aru
+biishikiup
+geinou_sotsuaru
+Datsumou_Matome
+heart_words_
+6seconds_movie
+nohara_meigen
+A_blood_aruaru
+B_blood_aruaru
+O_blood_aruaru
+AB_blood_aruaru
