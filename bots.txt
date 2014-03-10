@@ -109,6 +109,7 @@ WorldRecords_1
 Xmas_2013_12_25
 Yakudachi_BOT
 Yo_Ha_09
+yuruijoshi
 Yuruyuru_news
 _AppiPhone
 _Contactbot
