@@ -756,3 +756,4 @@ yuzuru_gazou
 zakzak_present
 zatsugaku001
 zatsunachie
+socaru2
