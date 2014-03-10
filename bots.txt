@@ -36,13 +36,17 @@
 500fav
 500favs
 5_twitte
+6seconds_movie
 6warosu_douga
 73kao
 777favs
 7kish
+AB_blood_aruaru
 AB_song
+A_blood_aruaru
 A_jokes_bot
 BEAT_E_phot
+B_blood_aruaru
 Bo_bo_bot
 Bot_popularity_
 Bot_wit
@@ -53,6 +57,7 @@ Copy_Paste_Fan
 CureCure2
 Curedeep
 DailyFavbot
+Datsumou_Matome
 Dont_laugh_pics
 Dont_laugh_twts
 Drama_info
@@ -66,6 +71,7 @@ Girls_info_tw
 GoBackBot
 HairStyleMake
 Hihou_Darake
+HimaYomu
 Honki_Honki
 IMIKOWA_BOT
 IQ_check
@@ -84,13 +90,16 @@ MkMk_Switch
 Nana_bot_remind
 Nekoo00
 NinNin_jyajya
+O_blood_aruaru
 Omoroi_jp
 Omoshiroiine
 RT_topic
 RTmatome
 Risa__zZ
+SEXaru_aru
 Shoten_Ohgiri
 Snare_drum_bot
+SugoLoveHo
 Swwwww_BOT
 TH0725
 TLnichijo
@@ -109,7 +118,6 @@ WorldRecords_1
 Xmas_2013_12_25
 Yakudachi_BOT
 Yo_Ha_09
-yuruijoshi
 Yuruyuru_news
 _AppiPhone
 _Contactbot
@@ -172,6 +180,7 @@ baske__vine
 begetaria
 benjamin1006run
 besttweetcom
+biishikiup
 bijyo_delivery
 bokebot
 bokete_boke
@@ -247,6 +256,7 @@ gazou_wwBOT
 gazounforgotten
 gazoutodokemasu
 gein0u_sotsuaru
+geinou_sotsuaru
 geinousotsuaru
 gekiwarai_bot
 gensentweet
@@ -275,6 +285,7 @@ hanyuyuzuru_
 hanzaisya_bot
 happy_botom
 hazukashibot
+heart_words_
 heartwash_story
 heiseibot
 hi_riaju_
@@ -402,6 +413,7 @@ meshiuma_yonaka
 mhiro0715
 mi_ay7
 mi_ha2
+mind_wealth
 minnamisetai
 mitehaikenai__
 mkyi8
@@ -443,6 +455,7 @@ niyaniyabon
 niyari_bot15
 nobitawaruina
 nobuko3895
+nohara_meigen
 nokkmy
 nolaugh_bot
 nonameno937
@@ -622,6 +635,7 @@ tweeeesoku
 tweet_RT_
 tweet_nagt
 tweet_omoro
+twi_tenkomori
 twiter_present
 twshinrei
 udon_marketing
@@ -647,6 +661,7 @@ viratter2
 w_7hi
 w_seiyu_bot
 wadai_hozon
+wadai_sentan
 wadaip
 wadaitweet
 wahaha_bot
@@ -728,6 +743,7 @@ yorondone
 yoshihironyanko
 yoshino22_bot
 yuru_boke
+yuruijoshi
 yutaka_sugiru
 yutori_siranai
 yutoribot_
@@ -739,19 +755,4 @@ yuzi07090710
 yuzuru_gazou
 zakzak_present
 zatsugaku001
-HimaYomu
 zatsunachie
-wadai_sentan
-mind_wealth
-SugoLoveHo
-SEXaru_aru
-biishikiup
-geinou_sotsuaru
-Datsumou_Matome
-heart_words_
-6seconds_movie
-nohara_meigen
-A_blood_aruaru
-B_blood_aruaru
-O_blood_aruaru
-AB_blood_aruaru
