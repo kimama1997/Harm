@@ -763,6 +763,7 @@ warainotaikai
 waraitime_bot20
 waranet48
 waraou_bot
+warappahns
 warataww_bot
 warattara_bot
 warattawwwbot
