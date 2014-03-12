@@ -73,6 +73,7 @@ aboab_aboab
 abunaiPIC_
 afman_ken
 afrisk01
+aho_gakusei
 ai_ren_ai
 ainokunii_bot
 akirbySNPI_bot
@@ -87,6 +88,7 @@ animalgazoubest
 animemangabot
 anywhere_with
 aofox5152_bot
+Apple_Store__
 apple29ap
 arasifan02
 ArielKotodama
@@ -104,6 +106,7 @@ baka_hakkenbot
 bakabest
 bakatter__bot
 bakatter_owata
+bake0monogatari
 bakusyo_2013
 bakusyowww
 baske__vine
@@ -204,6 +207,8 @@ Drama_info_tw
 enjougazou
 enjoyEyes
 Erlene_Haertel
+ero_doujin00
+ero_jiko
 ERO_megami
 erohousou
 everycutecat
@@ -262,6 +267,7 @@ guro_bot_
 gurophoto_g
 gutscat
 gyahahaha_bot
+gyaru__JK
 h_au7
 haha19992
 HairStyleMake
@@ -307,6 +313,7 @@ hukaii_blood
 ijou_sekai
 ike_sc
 ikemen_delivery
+ikemen_gentei
 iketeru_school
 illustrate_tech
 imaneta777
@@ -324,6 +331,7 @@ Its_a_Horror
 itscrazy_bot
 iy7ut
 iyashigazoubot
+iyasi_bijin
 Iyasshi_Animals
 izonbot
 j_soccer_meigen
@@ -346,7 +354,9 @@ kaaaaaaa_chan
 kagi_bot
 kami_gazou
 kami_sokuhou
+kami_terop
 Kanchigai_BUSU
+kandouno_namida
 kangaebot
 kankorefanz
 kaorin704
@@ -376,6 +386,7 @@ kopipe_bot
 Kopipe_bot_
 kopipedoujou
 kosen_BOTter
+kosu_bijyo
 Kotonoha_bot1
 kouiuno
 koujou_yakei
@@ -536,6 +547,7 @@ omowazu_warota
 onepeace_namida
 onepiece_me
 onibore_bot
+onnna_migakii
 oogiri_ippon
 oonimas
 orangerangefun
@@ -604,6 +616,7 @@ schoolstudent_
 seehoog
 SeifukuBijyo
 seishinizyou
+seisin_ijyou
 seisinn_ijo
 sekaino_nazo
 SekaiYakei
@@ -629,6 +642,7 @@ Shoten_Ohgiri
 shyuryosha
 sinceborn
 sindo_ryo
+singeki_kg
 sinukatoo
 siranai_bikkuri
 siranakattakoto
@@ -651,6 +665,7 @@ suberan874_bot
 sugee_contest
 sugeeeezatugatu
 SugoLoveHo
+sumaho__game
 sunkist1019
 sunset_ph
 super_neta
@@ -671,6 +686,7 @@ takuhiro0912
 tanoshiiii_bot
 tanoshiku_tweet
 tatsuya_racer
+tengoku_fuukei
 tenkaichi_wwww
 tenten_twi
 test_skmt
@@ -697,6 +713,7 @@ trdnow
 trend_pic
 trend_today
 trendmastar
+trick_gazou
 TrickArt_World
 trivia_bot_
 trivia_known
@@ -720,6 +737,7 @@ udon_marketing
 uhpuwkfo
 ukeruneta
 uketubu
+ultimate_idea
 unique_robot
 UniqueTwit_bot
 uniquewww_bot
@@ -793,6 +811,7 @@ wd_mistery
 whichbot
 wo_ai_ni_10
 word_leaf
+word_osyare
 WorldRecords_1
 ww_tsuuhan_ww
 ww_tter
@@ -854,3 +873,4 @@ zakzak_present
 zatsugaku001
 zatsunachie
 zekkei_gazo
+zettai_ryouiki0
