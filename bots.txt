@@ -875,3 +875,5 @@ zatsugaku001
 zatsunachie
 zekkei_gazo
 zettai_ryouiki0
+# 要監視
+tuiko_san
