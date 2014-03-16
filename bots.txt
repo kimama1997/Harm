@@ -50,6 +50,7 @@ ArielKotodama
 BD_Fortune
 BEAT_E_phot
 B_blood_aruaru
+BabyItsyou5
 BishokuTerro
 Bo_bo_bot
 Bot_popularity_
@@ -244,6 +245,7 @@ byokan
 chanwdo
 checkmate__bot
 chie_omoshiro
+chiebukuro_
 chu_children
 chuck_norrisBOT
 cltoread
@@ -283,6 +285,7 @@ dokuzets8888
 dont_laughpics
 doropandtanaka
 dottiha7
+dq_bianca
 enjougazou
 enjoyEyes
 ero_doujin00
@@ -448,6 +451,7 @@ kosu_bijyo
 kouiuno
 koujou_yakei
 kurolongBijo
+kuropanst
 kusukusu_RT
 kusuritosurubot
 kuusou_kagaku
@@ -502,6 +506,7 @@ mind_wealth
 minnamisetai
 mitehaikenai__
 miwakuHaikyo
+miyasan_bot
 mizugiBijyo
 mkyi8
 mobile_pcKING
@@ -514,6 +519,7 @@ moririntweetbot
 mosi_janaino
 mouikkai2
 mouitido_bot
+mrcbot
 mrwadakies
 mudabot
 mudantensai_bot
@@ -556,6 +562,7 @@ nukonyann6
 nyanko_news
 nyarukobot
 o_nature1
+ohmotoai
 oichi777
 okuribitobot
 omo_zatsu
@@ -668,6 +675,7 @@ shinitee_
 shinukato_
 shiraginu
 shiranaitw
+shitsumontw
 shyuryosha
 sinceborn
 sindo_ryo
