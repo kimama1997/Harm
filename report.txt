@@ -1,16 +1,18 @@
 # 所謂パクリツイッタラー
-# パクリツイートは Twitter利用規約 違反です
-#
 # パクリツイッタラーについては、以下のどれかを満たしている場合、追加を行ってください。
 # 1.多くのRT/Favをされた他者のツイートをコピーしてつぶやいている
 # 2.他者の画像をURLではなく、再アップロードして、自分のものとしてツイートしている
-DIEND_0930
-T1_t2_eternal
 Accel_booster
-iCri7
-tomato_fav2
-_0CH4
-removeking
-pass_oki
-Wonder_blb
+DIEND_0930
 KY0_5
+T1_t2_eternal
+Wonder_blb
+_0CH4
+_RIAPS
+huran_0495
+iCri7
+pass_oki
+removeking
+tomato_fav2
+ttttdddanl
+zhirba
